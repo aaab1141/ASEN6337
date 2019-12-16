@@ -1,0 +1,44 @@
+# This is my magical .gitignore file. I really hope it is magical
+# Ignore the Figs folder
+Figs/
+
+# Ignore the notMATLAB folder
+notMATLAB/
+
+# Ignore the openai-caribbean-challenge-benchmark-master folder
+openai-caribbean-challenge-benchmark-master/
+
+# Ignore the PNGs folder
+PNGs/
+
+# Ignore the pretraining_data folder
+pretraining_data/
+
+# Ignore the processed_test_data folder
+processed_test_data/
+
+# Ignore the stac folder
+stac/
+
+# Ignore the test_data folder
+test_data/
+
+# Ignore the testResults folder
+testResults/
+
+# Ignore the trainedNets folder
+trainedNets/
+
+# Ignore the trainingset# folders
+trainingset1/
+trainingset2/
+trainingset3/
+trainingset4/
+trainingset5/
+trainingset6/
+trainingset7/
+trainingset8/
+trainingset9/
+
+# Ignore the stac.tar file
+stac.tar
