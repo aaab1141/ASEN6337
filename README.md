@@ -12,6 +12,10 @@ The Final Project folder includes the MATLAB code that I wrote for a final proje
 
 The Group_Homework folder has the MATLAB code I wrote for a group homework in the class where we looked at classfying pictures of clouds into four classes using Neural Networks and MATLAB's Machine Learning and Deep Learning Toolbox.
 
+[Group_Homework]()
+
 ## Individual_Homework
 
 The Individual_Homework folder has the code I wrote for three of the individual homework assignments in this class.
+
+[Individual_Homework]
