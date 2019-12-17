@@ -4,7 +4,7 @@ This is the code for the Final Project
 
 ## How to Use this?
 
-TBH this will probably be a little annoying but it would be possile to run things if you really wanted too.
+TBH this will probably be a little annoying but it would be possible to run things if you really wanted too.
 
 ### Data
 
